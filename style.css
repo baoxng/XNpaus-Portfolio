@@ -1,7 +1,6 @@
 
 .container {
-    margin: auto;
+    margin: 75px auto;
     max-width: 2,000px;
-    max-height: fit-content;
     background-color: rgba(238, 84, 110, 0.575);
 }
