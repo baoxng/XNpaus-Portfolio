@@ -37,10 +37,24 @@
     </Header>
 
     <section class= "container">
-      <form action=""></form>
-        <label for="firstName">First Name</label>
-        <input type="text" id= "firstName" name="firstName">
+      <h2>Message Me!</h2>
+        <form action="">
+            <div class= "messageform">
+                <label for="name">Name</label>
+                <input type="text" id= "name" name="name">
+            </div>
+            <div class= "messageform">
+                <label for="email">E-mail</label>
+                <input type="email" id= "email" name="email">
+            </div>
 
+            <div class= "messageform">
+                <label for="messages">Message</label>
+                <textarea name="message" rows="10" cols="30"></textarea>
+            </div>
+        
+             <button type= "submit">Submit</button>
+        </form>
 
     </section>
 
