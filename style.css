@@ -4,3 +4,8 @@
     max-width: 2,000px;
     background-color: rgba(238, 84, 110, 0.575);
 }
+
+blockquote {
+   float: right;
+   padding: 3%;
+}
