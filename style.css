@@ -7,24 +7,20 @@ body {
     display: table;
     height: 100%;
     width: 100%;
-    background-image:url(Images/northshore.JPG);
-    background-size: 100% 100%;
-
+    background-color: rgba(233, 115, 94, 0.856);
 }
 
 .container-sm, .container {
     margin: 40px auto;
-    background-color: rgba(199, 163, 241, 0.37);
+    background-color: rgba(110, 147, 226, 0.356);
 }
 
 .wrapper {
-   background-color:rgba(207, 102, 184, 0.548);
    color: white;
    text-align: center;
    width: 100%;
    height: auto;
    padding: 10px
-
 
 }
 
@@ -34,8 +30,8 @@ img {
     height: 400px;
     margin: 10px;
     padding: 10px;
-
 }
+
 form {
     width: 400px;
 }
@@ -49,16 +45,22 @@ textarea {
 }
 
 input:focus, textarea:focus {
-    box-shadow: 0 0 5px rgba(173, 54, 173, 0.103);
+    box-shadow: 0 0 5px rgba(218, 71, 218, 0.103);
     border: 4px solid rgba(187, 78, 129, 0.685);
 }
 .container {
     max-width: 450px;
 }
-.navbar{
-    background-color: pink;
-    font-family: 'Courier New', Courier, monospace;
-}
+
 strong {
     font-size: 3em;
+}
+.wrapper, .navbar {
+       background-color:rgba(87, 223, 216, 0.493);
+}
+p, .navbar, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    font-weight: bold ;
 }
