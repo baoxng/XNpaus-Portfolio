@@ -1,9 +1,8 @@
 
-.container-sm {
+.container-sm, .container {
     margin: 40px auto;
-    background-color: rgba(238, 84, 110, 0.575);
+    background-color: rgba(199, 163, 241, 0.37);
 }
-
 
 blockquote {
    float: right;
@@ -31,18 +30,16 @@ textarea {
 }
 
 input:focus, textarea:focus {
-    box-shadow: 0 0 5px rgba(173, 54, 173, 0.5);
+    box-shadow: 0 0 5px rgba(173, 54, 173, 0.103);
     border: 4px solid rgba(187, 78, 129, 0.685);
 }
 .container {
-    margin: 40px auto;
     max-width: 450px;
-    background-color:  rgb(165, 153, 194);
 }
-.navabar {
+.navbar{
     background-color: pink;
     font-family: 'Courier New', Courier, monospace;
 }
 strong {
-    font-size: 4em;
+    font-size: 3em;
 }
