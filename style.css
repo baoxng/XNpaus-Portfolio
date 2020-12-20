@@ -4,9 +4,15 @@
     background-color: rgba(199, 163, 241, 0.37);
 }
 
-blockquote {
-   float: right;
-   padding: 3%;
+.wrapper {
+   background-color:rgba(207, 102, 184, 0.548);
+   color: white;
+   text-align: center;
+   width: 100%;
+   height: auto;
+   padding: 10px
+
+
 }
 
 img {
