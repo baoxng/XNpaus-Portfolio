@@ -28,4 +28,4 @@ The development process was trully hard for me in this project, especially makin
 <b> The snip it to all the skeleton pages. </b>
 ![mainpageskele.png](/Images/mainpageskele.png) 
 ![Portfolioskele.png](/Images/Portfolioskele.png) 
-![contactformskele.png](/Images/contactformskele.png) 
+![Contactformskele.png](/Images/Contactformskele.png) 
