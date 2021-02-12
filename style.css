@@ -26,7 +26,7 @@ body {
    color: white;
    text-align: center;
    width: 100%;
-   height: 100px;
+   max-height: 150px;
    padding: 10px
 
 }
@@ -50,9 +50,9 @@ input {
     width: 100%;
 }
 textarea {
-    resize: both;
-    max-height: 500px;
-    max-width: 400px;
+    resize: none;
+    height: 400px;
+    width: 400px;
 }
 
 input:focus, textarea:focus {
