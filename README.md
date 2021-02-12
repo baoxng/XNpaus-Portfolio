@@ -4,6 +4,8 @@
 
 Welcome! XNpaus Portfolio is a project that I would like to get personal with. This project challenged me to see if I can implement bootstrap into a website that I create about me. There's certain elements that I had to incorporate into the website, like making a navigation bar and having a link take me to another webpage. I also learned how to use columns and grids to make my bio card.
 
+Click on here to go to the [live link](https://baoxng.github.io/XNpaus-Portfolio/).
+
 ## Installation 
 
 Follow these links to `Download` and `Install` the following tools in order to start developing and refractoring codes.
