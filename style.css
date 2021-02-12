@@ -3,16 +3,21 @@
     padding: 0;
     box-sizing:border-box;
 }
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color:rgb(241, 234, 247)
+}
 body {
     display: table;
     height: 100%;
     width: 100%;
-    background-color: rgba(233, 115, 94, 0.856);
+    background-color: rgb(121, 147, 165);
 }
 
 .container-sm, .container {
     margin: 40px auto;
-    background-color: rgba(110, 147, 226, 0.356);
+    background-color: rgba(255, 255, 255, 0.356);
 }
 
 .wrapper {
@@ -56,7 +61,7 @@ strong {
     font-size: 3em;
 }
 .wrapper, .navbar {
-       background-color:rgba(87, 223, 216, 0.493);
+       background-color:rgba(61, 80, 116, 0.795);
 }
 p, .navbar, h2 {
     font-family: 'Courier New', Courier, monospace;
