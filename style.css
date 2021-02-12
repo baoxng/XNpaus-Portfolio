@@ -28,6 +28,10 @@ body {
    padding: 10px
 
 }
+i{
+    text-align: center;
+    font-size: 40px;
+}
 
 img {
     display: inline;
