@@ -21,10 +21,12 @@ body {
 }
 
 .wrapper {
+   position: sticky;
+   bottom: 0; 
    color: white;
    text-align: center;
    width: 100%;
-   height: auto;
+   height: 100px;
    padding: 10px
 
 }
